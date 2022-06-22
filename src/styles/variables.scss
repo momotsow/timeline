@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+$quicksand-font: "Quicksand", sans-serif;
+
+$bg: #215A6B;
+$cardbg: #173F4B;
+$text: #F5F5F5;
+$white: #ffffff;
+
+$fontsize: 14px;
+$fontweight: 400;
+$lineheight: 18.2px;
+$textcenter:Center;
+
+@mixin breakpoint($point) {
+    @if $point == md {
+        @media (min-width: $md) {
+            @content;
+        }
+    }
+}
