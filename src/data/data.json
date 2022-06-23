@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "icon": "dot",
+        "image": "./assets/img/Goal=Home.png",
+        "para": "New home",
+        "date": "In 1 year and 9 months"
+    },
+    {
+        "id": 2,
+        "icon": "dot",
+        "image": "./assets/img/Goal=Baby.png",
+        "para": "New home",
+        "date": "In 1 year and 9 months"
+    },
+    {
+        "id": 3,
+        "icon": "dot",
+        "image": "./assets/img/Goal=Holiday.png",
+        "para": "New home",
+        "date": "In 1 year and 9 months"
+    },
+    {
+        "id": 4,
+        "icon": "dot",
+        "image": "./assets/img/Goal=Emergencyfund.png",
+        "para": "New home",
+        "date": "In 1 year and 9 months"
+    },
+    {
+        "id": 5,
+        "icon": "dot",
+        "image": "./assets/img/Goal=Debt.png",
+        "para": "New home",
+        "date": "In 1 year and 9 months"
+    }
+]
