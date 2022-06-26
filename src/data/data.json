@@ -2,36 +2,36 @@
     {
         "id": 1,
         "icon": "dot",
-        "image": "./assets/img/Goal=Home.png",
-        "para": "New home",
+        "image": "https://res.cloudinary.com/motsow/image/upload/v1656153309/Goal_Home_jpjuoh.png",
+        "caption": "New home",
         "date": "In 1 year and 9 months"
     },
     {
         "id": 2,
         "icon": "dot",
-        "image": "./assets/img/Goal=Baby.png",
-        "para": "New home",
+        "image": "https://res.cloudinary.com/motsow/image/upload/v1656153310/Goal_Baby_qv6ped.png",
+        "caption": "Baby's birth",
         "date": "In 1 year and 9 months"
     },
     {
         "id": 3,
         "icon": "dot",
-        "image": "./assets/img/Goal=Holiday.png",
-        "para": "New home",
-        "date": "In 1 year and 9 months"
+        "image": "https://res.cloudinary.com/motsow/image/upload/v1656153310/Goal_Holiday_vg1hf8.png",
+        "caption": "Holiday",
+        "date": "In 3 year and 2 months"
     },
     {
         "id": 4,
         "icon": "dot",
-        "image": "./assets/img/Goal=Emergencyfund.png",
-        "para": "New home",
-        "date": "In 1 year and 9 months"
+        "image": "https://res.cloudinary.com/motsow/image/upload/v1656153309/Goal_Emergencyfund_v1hbkh.png",
+        "caption": "Emergency fund",
+        "date": "In 4 year and 9 months"
     },
     {
         "id": 5,
         "icon": "dot",
-        "image": "./assets/img/Goal=Debt.png",
-        "para": "New home",
-        "date": "In 1 year and 9 months"
+        "image": "https://res.cloudinary.com/motsow/image/upload/v1656153309/Goal_Debt_cdcifp.png",
+        "caption": "Debt Free",
+        "date": "In 8 year and 11 months"
     }
 ]
