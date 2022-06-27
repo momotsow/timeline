@@ -1,1 +1,5 @@
-/*# sourceMappingURL=index.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+html body {
+  font-family: "Quicksand", sans-serif;
+  color: #F5F5F5;
+}/*# sourceMappingURL=index.css.map */
