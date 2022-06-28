@@ -2,6 +2,8 @@ html {
     body {
       font-family: $font;
       color: $text;
+      overflow-x: hidden;
+      overflow-y: hidden;
     }
   }
   
